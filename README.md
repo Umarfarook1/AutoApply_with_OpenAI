@@ -21,5 +21,5 @@ To run this project, you need to have the following software installed:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/job-application-automation.git
-cd job-application-automation
+git clone https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git
+cd Umarfarook1/job-application-automation-using-openAi-api
