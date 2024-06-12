@@ -72,7 +72,7 @@ This project demonstrates the automation of a job application form submission us
 
 clone the repository using below link
 
-[git clone] (https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git)
+[git clone](https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git)
 
 cd Umarfarook1/job-application-automation-using-openAi-api
 
@@ -80,7 +80,7 @@ cd Umarfarook1/job-application-automation-using-openAi-api
 
 Install all the libraries and packages mentioned in the below referal link
 
-[refer] (https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git)
+[refer](https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git)
 
 3\.  **Set your OpenAI API key:**
 
