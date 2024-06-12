@@ -72,9 +72,57 @@ To run this project, you need to have the following software installed:
 git clone https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git
 cd Umarfarook1/job-application-automation-using-openAi-api
 
-2. **Install the required packages:**
+2.  **Install the required packages:**
 
-```bash
-pip install -r requirements.txt
-Set your OpenAI API key:
-Replace 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' with your actual OpenAI API key in the script.
+    bash
+
+    Copy code
+
+    `pip install -r requirements.txt`
+
+3.  **Set your OpenAI API key:** Replace `'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'` with your actual OpenAI API key in the script.
+
+
+## Usage
+
+
+1.  **Run the script:**
+
+    bash
+
+    Copy code
+
+    `python pp.py`
+
+2.  **Script Execution:**
+
+    -   The script will generate dummy data using the OpenAI API.
+    -   It will then open the job application form in a Chrome browser window.
+    -   The script will fill out the form fields with the generated data.
+    -   It will upload the specified resume file.
+    -   Finally, the script will submit the form.
+
+##Logging
+
+
+The script provides detailed logging to track the execution flow and debug any issues. Logs include information about generating dummy data, filling out the form, uploading the resume, and submitting the form.
+
+## Video Demonstration
+
+
+A video demonstrating the execution of this project is available on YouTube: [Watch the video](https://www.youtube.com/yourvideolink)
+
+## Contributing
+
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+** For any questions or inquiries, please contact:**
+
+-   umarfarook0yt@gmail.com
