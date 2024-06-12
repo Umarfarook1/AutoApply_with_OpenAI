@@ -66,51 +66,17 @@ This project demonstrates the automation of a job application form submission us
 
   - Managed by incorporating explicit waits and error handling in the script.
 
-## Usage
-
-1\. **Install Dependencies**:
-
-   ```bash
-
-   pip install -r requirements.txt
-
-## Features
-
-- Generates realistic dummy data for job applications using OpenAI's API.
-
-- Automates the form-filling process using Selenium.
-
-- Uploads a resume and submits the form automatically.
-
-## Requirements
-
-To run this project, you need to have the following software installed:
-
-- Python 3.x
-
-- OpenAI API key
-
-- Google Chrome browser
-
-- ChromeDriver
-
 ## Installation
 
 1\. **Clone the repository:**
 
-```bash
-
-git clone https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git
+`git clone https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git
 
 cd Umarfarook1/job-application-automation-using-openAi-api
 
 2\.  **Install the required packages:**
 
-    bash
-
-    Copy code
-
-    `pip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 3\.  **Set your OpenAI API key:**
 
@@ -138,7 +104,28 @@ Replace `'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'` with your actual O
 
     -   Finally, the script will submit the form.
 
-##Logging
+## Features
+
+- Generates realistic dummy data for job applications using OpenAI's API.
+
+- Automates the form-filling process using Selenium.
+
+- Uploads a resume and submits the form automatically.
+
+## Requirements
+
+To run this project, you need to have the following software installed:
+
+- Python 3.x
+
+- OpenAI API key
+
+- Google Chrome browser
+
+- ChromeDriver
+
+
+## Logging
 
 The script provides detailed logging to track the execution flow and debug any issues. Logs include information about generating dummy data, filling out the form, uploading the resume, and submitting the form.
 
