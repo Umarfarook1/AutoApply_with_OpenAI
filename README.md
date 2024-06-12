@@ -70,13 +70,17 @@ This project demonstrates the automation of a job application form submission us
 
 1\. **Clone the repository:**
 
-`git clone https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git
+clone the repository using below link
+
+[git clone] (https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git)
 
 cd Umarfarook1/job-application-automation-using-openAi-api
 
 2\.  **Install the required packages:**
 
-`pip install -r requirements.txt`
+Install all the libraries and packages mentioned in the below referal link
+
+[refer] (https://github.com/Umarfarook1/job-application-automation-using-openAi-api.git)
 
 3\.  **Set your OpenAI API key:**
 
@@ -86,11 +90,7 @@ Replace `'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'` with your actual O
 
 1\.  **Run the script:**
 
-    bash
-
-    Copy code
-
-    `python pp.py`
+    `python fill_job_application_form.py`
 
 2\.  **Script Execution:**
 
@@ -131,7 +131,8 @@ The script provides detailed logging to track the execution flow and debug any i
 
 ## Video Demonstration
 
-A video demonstrating the execution of this project is available on YouTube: [Watch the video](https://www.youtube.com/yourvideolink)
+A video demonstrating the execution of this project is available on YouTube: [Watch the video](https://youtu.be/DcekgxkxJZE)
+or [link](https://www.loom.com/share/42d72c91066c48358bc351c8a5715cac)
 
 ## Contributing
 
