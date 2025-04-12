@@ -38,16 +38,6 @@ This project demonstrates the automation of a job application form submission us
 
    - Handled file upload using `pyautogui`.
 
-## Other Approaches
-
-- **Puppeteer (Node.js)**:
-
-  - A headless browser automation tool that could have been used.
-
-- **BeautifulSoup (Python)**:
-
-  - Suitable for web scraping but less ideal for interactive form submission.
-
 ## Why This Approach
 
 - **Selenium**:
@@ -65,6 +55,17 @@ This project demonstrates the automation of a job application form submission us
   - Handling dynamic web elements and ensuring reliable form submission.
 
   - Managed by incorporating explicit waits and error handling in the script.
+
+## Other Approaches
+
+- **Puppeteer (Node.js)**:
+
+  - A headless browser automation tool that could have been used.
+
+- **BeautifulSoup (Python)**:
+
+  - Suitable for web scraping but less ideal for interactive form submission.
+
 
 ## Installation
 
