@@ -132,8 +132,7 @@ The script provides detailed logging to track the execution flow and debug any i
 
 ## Video Demonstration
 
-A video demonstrating the execution of this project is available on YouTube: [Watch the video](https://youtu.be/DcekgxkxJZE)
-or [link](https://www.loom.com/share/42d72c91066c48358bc351c8a5715cac)
+A video demonstrating the execution of this project is available on  [link](https://www.loom.com/share/42d72c91066c48358bc351c8a5715cac)
 
 ## Contributing
 
